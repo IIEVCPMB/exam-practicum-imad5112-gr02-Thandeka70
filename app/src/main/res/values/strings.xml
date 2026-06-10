@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Campsite Commander</string>
+    <string name="enter_list_here">Enter List Here!</string>
+    <string name="item_name">Item Name</string>
+    <string name="category">Category</string>
+    <string name="quantity">Quantity</string>
+    <string name="comment">Comment</string>
+    <string name="exit">Exit!</string>
+    <string name="back_to_base">Back to Base</string>
+    <string name="thandeka_zengele_st10505979">Thandeka Zengele ST10505979</string>
+    <string name="campsite_commander">Campsite Commander!</string>
+    <string name="save_gear">Save Gear!</string>
+    <string name="display_list">Display List</string>
+    <string name="enter_gear_here">Enter Gear Here!</string>
+    <string name="details_will_appear_here">details will appear here</string>
+    <string name="total_items">Total Items</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="start">Start!</string>
+</resources>
