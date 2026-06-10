@@ -7,6 +7,7 @@ The first scrreen is the welcome screen and that tells the user to start the app
 The second screen is where the user the enter in thier check list( the things the user will need to remember and use later on). There are buttons that the user will press to see the check list when done and the total number of items and there will be a button the directs the user to the last screen to view the check list
 The third screen the user will see a button that takes the back to the main screen ( which is the second screen) then they will also seee the check list
 I did my app testing by creating a workflows file 
+<img width="1841" height="742" alt="image" src="https://github.com/user-attachments/assets/bb368b75-b560-49c6-ae59-ca1615f81e83" />
 
 this in the first interface . In this interfaces i worked on navigating the screens 
 <img width="1362" height="697" alt="image" src="https://github.com/user-attachments/assets/3d36fe9e-78a0-418b-bd53-749eee3524b2" />
